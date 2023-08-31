@@ -1,4 +1,4 @@
-# Comparapp
+# Comparar
 
 Proyecto final integrador de Argentina Programa - Desarrollo de aplicaciones móviles
 
